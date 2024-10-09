@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guillermo</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>http://localhost:1313/Hugo/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 17:36:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntaxix de markdown</title>
-      <link>http://localhost:1313/personal/index.html</link>
+      <link>http://localhost:1313/Hugo/personal/index.html</link>
       <pubDate>Thu, 03 Oct 2024 17:36:50 +0200</pubDate>
-      <guid>http://localhost:1313/personal/index.html</guid>
+      <guid>http://localhost:1313/Hugo/personal/index.html</guid>
       <description>Differentes tipos de encabezado # Encabezado 1 ## Encabezado 2 ### Encabezado 3&#xD;con esto haremos differentes tipos de encabezados y si seguimos añadiendo mas #seguiremos haciendolo mas grande para titulos o para hacerlo mas visual, y se visualizara asi&#xA;Encabezado 1 Encabezado 2 Encabezado 3 Distinto formato de letras Negrita: **Texto** Cursiva: _Texto_ Negrita y cursiva: ***Texto*** Tachado: ~~Texto~~&#xD;Asi haremos que los textos se vean en negrita, cursiva, negrita etc……, y asi se visualizara</description>
     </item>
   </channel>

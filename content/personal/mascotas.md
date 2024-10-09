@@ -14,4 +14,4 @@ weight = 10
 ```
 asi seria el formato para insertar videos en markdown y asi se verian 
 
-{{<youtube https://youtu.be/VsFx_DfYEU4?si=9VjqyGSFmZ04f-Qm>}}
+{{<youtube id="954UlZ4wWpU">}}
