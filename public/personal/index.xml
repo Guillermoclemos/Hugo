@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntaxix de markdown :: Guillermo</title>
+    <link>http://localhost:1313/personal/index.html</link>
+    <description>Differentes tipos de encabezado # Encabezado 1 ## Encabezado 2 ### Encabezado 3&#xD;con esto haremos differentes tipos de encabezados y si seguimos añadiendo mas #seguiremos haciendolo mas grande para titulos o para hacerlo mas visual, y se visualizara asi&#xA;Encabezado 1 Encabezado 2 Encabezado 3 Distinto formato de letras Negrita: **Texto** Cursiva: _Texto_ Negrita y cursiva: ***Texto*** Tachado: ~~Texto~~&#xD;Asi haremos que los textos se vean en negrita, cursiva, negrita etc……, y asi se visualizara</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 17:19:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enlaces y Imagenes</title>
+      <link>http://localhost:1313/personal/mascotas/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 17:19:58 +0200</pubDate>
+      <guid>http://localhost:1313/personal/mascotas/index.html</guid>
+      <description>videos youtube asi seria el formato para insertar videos en markdown y asi se verian</description>
+    </item>
+  </channel>
+</rss>
